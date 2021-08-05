@@ -1,0 +1,41 @@
+body {
+	background-image: url(F:\APROYEC FINAL KJ\CSS/Montañafondo.jpg); 
+	background-size: 100vw 100vh 
+	background-attachment: fixed;
+	margin: 0;
+}
+
+
+
+form{
+	width: 450px;
+	margin: auto;
+	background: rgba(0,0,0,0.4);
+	padding: 10px 20px; 
+	box-sizing: border-box;
+	margin-top: 20px;
+	border-radius: 7px;
+
+}
+
+h2 {
+	color: #ffffff;
+	text-align: center;
+	margin: 0;
+	font-size: 38px;
+	margin-bottom: 28px;
+}
+
+
+input, textarea {
+	width: 100% ;
+	margin-bottom: 20px;
+	padding: 7px;
+	box-sizing: border-box;
+    
+}
+
+textarea {
+     min-height: 70px;
+     max-height: 200px;
+}
